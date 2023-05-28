@@ -2,7 +2,8 @@
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Open Source projects<br>🤝 I’m looking for help with DSA, Competitive coding<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about UI/UX designing, Frontend development<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials:<br>
+https://shreyaparchurkar.netlify.app/
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/shreyaparchur) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shreya.parchurkar.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shreyaparchurkar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-p-26a86a1b6/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/parchurkarshreya/) 
 
 # 💻 Tech Stack:
